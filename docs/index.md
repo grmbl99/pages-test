@@ -7,10 +7,10 @@ permalink: /
 
 # Introduction
 
-This is the main chapter
+This is the main chapter (see [REF2])
 
 ## Scope
 
-Some subchapter see [SDS-SW-Architecture-DesignRules]
+Some subchapter see [REF1]
 
 {% include_relative references.md %}

@@ -1,11 +1,13 @@
 # References
 
-## Bla
+## REF1
 
-[SDS-SW-Architecture-DesignRules]: references-table#bla "bla bla"
+Description of the first reference
+[REF1]
 
-## Blap
+## REF2
 
-this is some other reference
+Description of the second reference
+[REF2]
 
 {% include_relative references.md %}

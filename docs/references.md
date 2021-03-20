@@ -3,4 +3,5 @@
 Place the links to the references here, they will not be rendered
 {:/comment}
 
-[SDS-SW-Architecture-DesignRules]: references-table#bla "bla bla"
+[REF1]: references-table#REF1 "bla bla"
+[REF2]: references-table#REF2 "bla bla"
