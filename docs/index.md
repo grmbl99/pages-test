@@ -13,4 +13,9 @@ This is the main chapter see \[[SDS-SW]\]
 
 Some subchapter see \[[SAFe]\]
 
+This is a an undefined ref: \[[SOMEREF]\]
+
+Testing [[SAFe]]
+Testing [[SOMEREF]]
+
 {% include_relative references.md %}
