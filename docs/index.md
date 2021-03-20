@@ -11,4 +11,6 @@ This is the main chapter
 
 ## Scope
 
-Some subchapter
+Some subchapter see [SDS-SW-Architecture-DesignRules]
+
+{% include_relative references.md %}
