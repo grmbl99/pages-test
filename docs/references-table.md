@@ -1,14 +1,14 @@
 # References
 
-## [SDS-SW]
+## \[[SDS-SW]\]
 
-- Reference: [[SDS-SW]]
+- Reference: \[[SDS-SW]\]
 - Identification: DHF280123
 - Title / remarks: SDS Software Architecture (chapter 10)
 
-## [DEFCLASS]
+## \[[DEFCLASS]\]
 
-- Reference: [[DEFCLASS]]
+- Reference: \[[DEFCLASS]\]
 - Identification: ANSI/AAMI SW91:2018
 - Title / remarks: Classification of Defects in Health Software
 
