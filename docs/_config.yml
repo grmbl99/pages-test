@@ -1,0 +1,6 @@
+title: Testing with GitHub Pages
+remote_theme: pmarsceill/just-the-docs
+markdown: kramdown
+aux_links:
+  "See on GitHub":
+    - "//github.com/grmbl99/pages-test"
