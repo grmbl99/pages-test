@@ -7,10 +7,10 @@ permalink: /
 
 # Introduction
 
-This is the main chapter (see [REF2])
+This is the main chapter see \[[SDS-SW]\]
 
 ## Scope
 
-Some subchapter see [REF1]
+Some subchapter see \[[SAFe]\]
 
 {% include_relative references.md %}

@@ -1,13 +1,7 @@
 # References
 
-## REF1
+## \[SDS-SW\]
 
-Description of the first reference
-[REF1]
-
-## REF2
-
-Description of the second reference
-[REF2]
+Description of the SDS software
 
 {% include_relative references.md %}

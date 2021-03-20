@@ -3,5 +3,5 @@
 Place the links to the references here, they will not be rendered
 {:/comment}
 
-[REF1]: references-table#REF1 "bla bla"
-[REF2]: references-table#REF2 "bla bla"
+[SAFe]: http://www.scaledagile.com "The scaled Agile framework"
+[SDS-SW]: references-table#SDS-SW "SDS Software"
