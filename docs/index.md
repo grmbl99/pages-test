@@ -7,8 +7,8 @@ permalink: /
 
 # Introduction
 
-## Unify the way we write software
-
 This is the main chapter
 
 ## Scope
+
+Some subchapter
